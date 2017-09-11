@@ -122,7 +122,7 @@ int main(){
 			case 'O':
 				lista.ordenar();
 				cout<<"La lista ha sido ordenada \n ";
-				//proxima instanciación :v
+				//proxima instanciaciÃ³n :v
 				break;
 			case 'm':
 			case 'M':
@@ -154,8 +154,6 @@ int main(){
 		}
 		
 	}while(opcion!='t' && opcion!='T');
-	
-	system("pause");
 	return 0;
 }
 char menu(){
